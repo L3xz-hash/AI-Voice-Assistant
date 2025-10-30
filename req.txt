@@ -1,0 +1,14 @@
+requests
+openai
+mouse
+keyboard
+numpy
+pyautogui
+yfinance
+pyttsx3
+linkup
+SpeechRecognition
+pywin32
+langchain
+langchain-core
+langchain-community
